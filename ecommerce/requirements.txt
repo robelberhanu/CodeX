@@ -12,6 +12,7 @@ dnspython==2.1.0
 email-validator==1.1.2
 fastapi==0.61.1
 fastapi-cache==0.1.0
+fastapi-mail== 1.0.1
 Flask==1.1.2
 Flask-SQLAlchemy==2.4.4
 h11==0.11.0
@@ -36,6 +37,7 @@ pydantic==1.6.1
 pyparsing==2.4.7
 pytest==6.2.2
 python-multipart==0.0.5
+python-dotenv = 0.19.1
 PyYAML==5.4.1
 requests==2.25.1
 six==1.15.0
